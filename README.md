@@ -1,5 +1,5 @@
 # software-downloader-for-xp-or-vista
-Executable window that downloads multiple XP/Vista software at once. 
+Executable window that downloads multiple XP software at once. 
 
 
 # Compatibility

@@ -1,4 +1,4 @@
-# software-downloader-for-xp-or-vista
+# software-downloader-for-xp
 Executable window that downloads multiple XP software at once. 
 
 

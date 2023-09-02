@@ -8,32 +8,28 @@
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox Setup 52.9.0esr.exe",
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
     ],
-    "K-Meleon 76.4.6": [
-      "https://o.rthost.win/kmeleon/KM76.4.6-Goanna-20221022.7z"
+    "K-Meleon": [
+      "https://o.rthost.win/kmeleon/KM76.4.9-Goanna-20230902.7z"
     ],
     "Mypal 68": [
-      "https://github.com/Feodor2/Mypal68/releases/download/68.13b/mypal-68.13.0.en-US.win32.zip"
-    ],
-    "Mypal Legacy": [
-      "https://mypal-browser.org/release/mypal-29.3.0.win32.installer.exe",
-      "https://mypal-browser.org/release/mypal-29.3.0.win64.installer.exe"
+      "https://github.com/Feodor2/Mypal68/releases/download/68.13.2b/mypal-68.13.2.en-US.win32.zip"
     ],
     "NewMoon": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230415-522696571d-xpmod.7z",
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20230415-522696571d-xpmod.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod.7z",
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20230902-fee4bda660-xpmod.7z"
     ],
     "NewMoon (SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230415-522696571d-xpmod-sse.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod-sse.7z"
     ],
     "NewMoon (no SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230415-522696571d-xpmod-ia32.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod-ia32.7z"
     ],
     "Serpent": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230415-3219d2d-uxp-75bef7b73-xpmod.7z",
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20230415-3219d2d-uxp-75bef7b73-xpmod.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230902-3219d2d-uxp-e27e1cd712-xpmod.7z",
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20230902-3219d2d-uxp-e27e1cd712-xpmod.7z"
     ],
     "Serpent (no SSE)": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230415-3219d2d-uxp-75bef7b73-xpmod-ia32.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230902-3219d2d-uxp-e27e1cd712-xpmod-ia32.7z"
     ]
   },
   "media": {
@@ -81,8 +77,8 @@
   },
   "utilities": {
     "7-Zip": [
-      "https://www.7-zip.org/a/7z2201.exe",
-      "https://www.7-zip.org/a/7z2201-x64.exe"
+      "https://www.7-zip.org/a/7z2301.exe",
+      "https://www.7-zip.org/a/7z2301-x64.exe"
     ],
     "Autoruns": [
       "https://web.archive.org/web/20210226223738/https://download.sysinternals.com/files/Autoruns.zip"
@@ -94,7 +90,7 @@
       "http://i430vx.net/files/misc/Cert_Updater_v1.6.exe"
     ],
     "CPU-Z": [
-      "https://download.cpuid.com/cpu-z/cpu-z_2.05-en.exe"
+      "https://download.cpuid.com/cpu-z/cpu-z_2.06-en.exe"
     ],
     "CrystalDiskInfo": [
       "https://free.nchc.org.tw/osdn//crystaldiskinfo/77877/CrystalDiskInfo8_17_8.zip"
@@ -107,11 +103,11 @@
       "https://www.dependencywalker.com/depends22_x64.zip"
     ],
     "Everything": [
-      "https://www.voidtools.com/Everything-1.4.1.1022.x86-Setup.exe",
-      "https://www.voidtools.com/Everything-1.4.1.1022.x64-Setup.exe"
+      "https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe",
+      "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe"
     ],
     "FFmpeg": [
-      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-5.2-564-e4ac156-win32-static-xpmod-sse.7z"
+      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-588-4006c71-win32-static-xpmod-sse.7z"
     ],
     "GPU-Z": [
       "https://archive.org/download/gpu-z.-2.47.0/GPU-Z.2.47.0.exe"
@@ -140,7 +136,7 @@
       "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
     ],
     "Snappy": [
-      "http://sdi-tool.org:8080/releases/SDI_R2201.zip"
+      "https://sdi-tool.org/releases/SDI_R2305.zip"
     ],
     "TCP Optimizer": [
       "https://www.speedguide.net/files/TCPOptimizer.exe"
@@ -148,11 +144,14 @@
     "TenFourFoxPEP": [
       "https://macintoshgarden.org/sites/macintoshgarden.org/files/apps/TenFourFoxPEP_1.zip"
     ],
+	"VirtualBox": [
+	  "https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
+	],
     "Xtreme Download Manager": [
       "https://archive.org/download/xdmsetup-2018_202209/xdmsetup-2018.msi"
     ],
     "youtube-dl": [
-      "https://yt-dl.org/downloads/2021.12.17/youtube-dl.exe"
+      "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"
     ]
   },
   "components": {

@@ -89,7 +89,7 @@
     "Certificate Updater": [
       "http://i430vx.net/files/misc/Cert_Updater_v1.6.exe"
     ],
-    "Code::Blocks": [
+    "Code::Blocks 17.12": [
       "https://archive.org/download/codeblocks-17.12mingw-setup/codeblocks-17.12mingw-setup.exe"
     ],
     "CPU-Z": [
@@ -131,6 +131,9 @@
     "Notepad++": [
       "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.exe",
       "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.x64.exe"
+    ],
+    "Python 3.4.10": [
+      "http://matejhorvat.si/en/windows/python/py3-4-10.zip"
     ],
     "qBittorrent": [
       "https://archive.org/download/qbittorrent_4.1.9.1_setup/qbittorrent_4.1.9.1_setup.exe"

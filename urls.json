@@ -89,6 +89,9 @@
     "Certificate Updater": [
       "http://i430vx.net/files/misc/Cert_Updater_v1.6.exe"
     ],
+    "Code::Blocks": [
+      "https://archive.org/download/codeblocks-17.12mingw-setup/codeblocks-17.12mingw-setup.exe"
+    ],
     "CPU-Z": [
       "https://download.cpuid.com/cpu-z/cpu-z_2.06-en.exe"
     ],

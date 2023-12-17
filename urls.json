@@ -9,27 +9,28 @@
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
     ],
     "K-Meleon": [
-      "https://o.rthost.win/kmeleon/KM76.4.9-Goanna-20230902.7z"
+      "https://o.rthost.win/kmeleon/KM76.5.0-Goanna-20231216.7z"
     ],
     "Mypal 68": [
-      "https://github.com/Feodor2/Mypal68/releases/download/68.13.2b/mypal-68.13.2.en-US.win32.zip"
+      "https://github.com/Feodor2/Mypal68/releases/download/68.13.7b/mypal-68.13.7.en-US.win32.zip",
+      "https://github.com/Feodor2/Mypal68/releases/download/68.13.7b/mypal-68.13.7.en-US.win64.zip"
     ],
     "NewMoon": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod.7z",
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20230902-fee4bda660-xpmod.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod.7z",
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20231216-6e01dc26a1-xpmod.7z"
     ],
     "NewMoon (SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod-sse.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod-sse.7z"
     ],
     "NewMoon (no SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20230902-fee4bda660-xpmod-ia32.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod-ia32.7z"
     ],
     "Serpent": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230902-3219d2d-uxp-e27e1cd712-xpmod.7z",
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20230902-3219d2d-uxp-e27e1cd712-xpmod.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20231216-3219d2d-uxp-4b5b374f48-xpmod.7z",
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20231216-3219d2d-uxp-4b5b374f48-xpmod.7z"
     ],
     "Serpent (no SSE)": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230902-3219d2d-uxp-e27e1cd712-xpmod-ia32.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20231216-3219d2d-uxp-4b5b374f48-xpmod-ia32.7z"
     ]
   },
   "media": {
@@ -71,8 +72,8 @@
       "https://github.com/ShareX/ShareX/releases/download/v12.0.0/ShareX-12.0.0-setup.exe"
     ],
     "VLC media player": [
-      "https://get.videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.exe",
-      "https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe"
+      "https://get.videolan.org/vlc/3.0.20/win32/vlc-3.0.20-win32.exe",
+      "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
     ]
   },
   "utilities": {
@@ -93,7 +94,7 @@
       "https://archive.org/download/codeblocks-17.12mingw-setup/codeblocks-17.12mingw-setup.exe"
     ],
     "CPU-Z": [
-      "https://download.cpuid.com/cpu-z/cpu-z_2.06-en.exe"
+      "https://download.cpuid.com/cpu-z/cpu-z_2.08-en.exe"
     ],
     "CrystalDiskInfo": [
       "https://free.nchc.org.tw/osdn//crystaldiskinfo/77877/CrystalDiskInfo8_17_8.zip"
@@ -110,7 +111,7 @@
       "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe"
     ],
     "FFmpeg": [
-      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-588-4006c71-win32-static-xpmod-sse.7z"
+      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-2009-bef151d-win32-static-xpmod-sse.7z"
     ],
     "GPU-Z": [
       "https://archive.org/download/gpu-z.-2.47.0/GPU-Z.2.47.0.exe"
@@ -142,7 +143,7 @@
       "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
     ],
     "Snappy": [
-      "https://sdi-tool.org/releases/SDI_R2305.zip"
+      "https://sdi-tool.org/releases/SDI_R2309.zip"
     ],
     "TCP Optimizer": [
       "https://www.speedguide.net/files/TCPOptimizer.exe"
@@ -150,11 +151,11 @@
     "TenFourFoxPEP": [
       "https://macintoshgarden.org/sites/macintoshgarden.org/files/apps/TenFourFoxPEP_1.zip"
     ],
-	"VirtualBox": [
-	  "https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
-	],
+		"VirtualBox": [
+			"https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
+		],
     "Xtreme Download Manager": [
-      "https://archive.org/download/xdmsetup-2018_202209/xdmsetup-2018.msi"
+      "https://github.com/subhra74/xdm/releases/download/8.0.29/xdmsetup-8.0.29-win7.msi"
     ],
     "youtube-dl": [
       "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"

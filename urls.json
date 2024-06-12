@@ -9,28 +9,32 @@
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
     ],
     "K-Meleon": [
-      "https://o.rthost.win/kmeleon/KM76.5.0-Goanna-20231216.7z"
+      "https://o.rthost.win/kmeleon/KM76.5.4-Goanna-20240608.7z"
     ],
     "Mypal 68": [
-      "https://github.com/Feodor2/Mypal68/releases/download/68.13.7b/mypal-68.13.7.en-US.win32.zip",
-      "https://github.com/Feodor2/Mypal68/releases/download/68.13.7b/mypal-68.13.7.en-US.win64.zip"
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win32.zip",
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win64.zip"
     ],
     "NewMoon": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod.7z",
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20231216-6e01dc26a1-xpmod.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod.7z",
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20240608-946864fcd3-xpmod.7z"
     ],
     "NewMoon (SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod-sse.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-sse.7z"
     ],
     "NewMoon (no SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20231216-6e01dc26a1-xpmod-ia32.7z"
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-ia32.7z"
     ],
     "Serpent": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20231216-3219d2d-uxp-4b5b374f48-xpmod.7z",
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20231216-3219d2d-uxp-4b5b374f48-xpmod.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z",
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z"
     ],
     "Serpent (no SSE)": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20231216-3219d2d-uxp-4b5b374f48-xpmod-ia32.7z"
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod-ia32.7z"
+    ],
+    "Supermium": [
+      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_32_setup.exe",
+      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_64_setup.exe"
     ]
   },
   "media": {
@@ -72,14 +76,14 @@
       "https://github.com/ShareX/ShareX/releases/download/v12.0.0/ShareX-12.0.0-setup.exe"
     ],
     "VLC media player": [
-      "https://get.videolan.org/vlc/3.0.20/win32/vlc-3.0.20-win32.exe",
-      "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
+      "https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe",
+      "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe"
     ]
   },
   "utilities": {
     "7-Zip": [
-      "https://www.7-zip.org/a/7z2301.exe",
-      "https://www.7-zip.org/a/7z2301-x64.exe"
+      "https://7-zip.org/a/7z2406.exe",
+      "https://7-zip.org/a/7z2406-x64.exe"
     ],
     "Autoruns": [
       "https://web.archive.org/web/20210226223738/https://download.sysinternals.com/files/Autoruns.zip"
@@ -94,7 +98,7 @@
       "https://archive.org/download/codeblocks-17.12mingw-setup/codeblocks-17.12mingw-setup.exe"
     ],
     "CPU-Z": [
-      "https://download.cpuid.com/cpu-z/cpu-z_2.08-en.exe"
+      "https://archive.org/download/cpu-z_2.08-en_202312/cpu-z_2.08-en.exe"
     ],
     "CrystalDiskInfo": [
       "https://free.nchc.org.tw/osdn//crystaldiskinfo/77877/CrystalDiskInfo8_17_8.zip"
@@ -111,7 +115,7 @@
       "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe"
     ],
     "FFmpeg": [
-      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-2009-bef151d-win32-static-xpmod-sse.7z"
+      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-7.1-596-5bc3b7f-win32-static-xpmod-sse.7z"
     ],
     "GPU-Z": [
       "https://archive.org/download/gpu-z.-2.47.0/GPU-Z.2.47.0.exe"
@@ -142,8 +146,8 @@
     "Rufus 2.18": [
       "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
     ],
-    "Snappy": [
-      "https://sdi-tool.org/releases/SDI_R2309.zip"
+    "SDIO": [
+      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.12.23.764.zip"
     ],
     "TCP Optimizer": [
       "https://www.speedguide.net/files/TCPOptimizer.exe"
@@ -163,8 +167,8 @@
   },
   "components": {
     ".NET Framework AIO": [
-      "https://github.com/abbodi1406/dotNetXP/releases/download/22.06.20/dotNetFx_AIO_x86_20220620.zip",
-      "https://github.com/abbodi1406/dotNetXP/releases/download/22.06.20/dotNetFx_AIO_x64_20220620.zip"
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x86_20240410.zip",
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x64_20240410_r.zip"
     ],
     "DirectX": [
       "https://archive.org/download/windows-xp-updates/Windows XP/Microsoft DirectX 9.0C (June 2010) Redistributable/directx_Jun2010_redist.exe"

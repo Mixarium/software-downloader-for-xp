@@ -76,8 +76,8 @@
       "https://github.com/ShareX/ShareX/releases/download/v12.0.0/ShareX-12.0.0-setup.exe"
     ],
     "VLC media player": [
-      "https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe",
-      "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe"
+      "https://get.videolan.org/vlc/3.0.21/win32/vlc-3.0.20-win32.exe",
+      "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.20-win64.exe"
     ]
   },
   "utilities": {

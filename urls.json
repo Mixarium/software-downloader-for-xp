@@ -8,29 +8,15 @@
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox Setup 52.9.0esr.exe",
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
     ],
-    "K-Meleon": [
-      "https://o.rthost.win/kmeleon/KM76.5.4-Goanna-20240608.7z"
-    ],
     "Mypal 68": [
-      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win32.zip",
-      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win64.zip"
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win32.zip",
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win64.zip"
     ],
-    "NewMoon": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod.7z",
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20240608-946864fcd3-xpmod.7z"
+    "Mypal 68 (SSE)": [
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win32-sse.zip"
     ],
-    "NewMoon (SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-sse.7z"
-    ],
-    "NewMoon (no SSE)": [
-      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-ia32.7z"
-    ],
-    "Serpent": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z",
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z"
-    ],
-    "Serpent (no SSE)": [
-      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod-ia32.7z"
+    "RoyTam Browser Installer": [
+      "https://i430vx.net/files/XP/RoyTam%20Browser%20Installer.exe"
     ],
     "Supermium": [
       "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_32_setup.exe",
@@ -82,8 +68,8 @@
   },
   "utilities": {
     "7-Zip": [
-      "https://7-zip.org/a/7z2406.exe",
-      "https://7-zip.org/a/7z2406-x64.exe"
+      "https://www.7-zip.org/a/7z2408.exe",
+      "https://www.7-zip.org/a/7z2408-x64.exe"
     ],
     "Autoruns": [
       "https://web.archive.org/web/20210226223738/https://download.sysinternals.com/files/Autoruns.zip"
@@ -111,11 +97,11 @@
       "https://www.dependencywalker.com/depends22_x64.zip"
     ],
     "Everything": [
-      "https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe",
-      "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe"
+      "https://www.voidtools.com/Everything-1.4.1.1026.x86-Setup.exe",
+      "https://www.voidtools.com/Everything-1.4.1.1026.x64-Setup.exe"
     ],
     "FFmpeg": [
-      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-7.1-596-5bc3b7f-win32-static-xpmod-sse.7z"
+      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-7.1-2362-6aafe61-win32-static-xpmod-sse.7z"
     ],
     "GPU-Z": [
       "https://archive.org/download/gpu-z.-2.47.0/GPU-Z.2.47.0.exe"
@@ -141,13 +127,13 @@
       "http://matejhorvat.si/en/windows/python/py3-4-10.zip"
     ],
     "qBittorrent": [
-      "https://archive.org/download/qbittorrent_4.1.9.1_setup/qbittorrent_4.1.9.1_setup.exe"
+      "https://www.fosshub.com/qBittorrent-old.html?dwl=qbittorrent_4.1.9.1_setup.exe"
     ],
     "Rufus 2.18": [
       "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
     ],
     "SDIO": [
-      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.12.23.764.zip"
+      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.13.5.772.zip"
     ],
     "TCP Optimizer": [
       "https://www.speedguide.net/files/TCPOptimizer.exe"
@@ -159,7 +145,7 @@
 			"https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
 		],
     "Xtreme Download Manager": [
-      "https://archive.org/download/xdmsetup-2018_202209/xdmsetup-2018.msi"
+      "https://github.com/subhra74/xdm/releases/download/7.2.7/xdmsetup-2018.msi"
     ],
     "youtube-dl": [
       "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"
@@ -167,8 +153,8 @@
   },
   "components": {
     ".NET Framework AIO": [
-      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x86_20240410.zip",
-      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x64_20240410_r.zip"
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.10.10/dotNetFx_AIO_x86_20241010.zip",
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.10.10/dotNetFx_AIO_x64_20241010.zip"
     ],
     "DirectX": [
       "https://archive.org/download/windows-xp-updates/Windows XP/Microsoft DirectX 9.0C (June 2010) Redistributable/directx_Jun2010_redist.exe"

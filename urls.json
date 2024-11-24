@@ -1,0 +1,181 @@
+{
+  "browsers": {
+    "Firefox 45.9.0esr": [
+      "https://archive.mozilla.org/pub/firefox/releases/45.9.0esr/win32/en-US/Firefox Setup 45.9.0esr.exe",
+      "https://archive.mozilla.org/pub/firefox/releases/45.9.0esr/win64/en-US/Firefox Setup 45.9.0esr.exe"
+    ],
+    "Firefox 52.9.0esr": [
+      "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox Setup 52.9.0esr.exe",
+      "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
+    ],
+    "K-Meleon": [
+      "https://o.rthost.win/kmeleon/KM76.5.4-Goanna-20240608.7z"
+    ],
+    "Mypal 68": [
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win32.zip",
+      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.2b/mypal-68.14.2.en-US.win64.zip"
+    ],
+    "NewMoon": [
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod.7z",
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win64-git-20240608-946864fcd3-xpmod.7z"
+    ],
+    "NewMoon (SSE)": [
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-sse.7z"
+    ],
+    "NewMoon (no SSE)": [
+      "https://o.rthost.win/palemoon/palemoon-27.10.0.win32-git-20240608-946864fcd3-xpmod-ia32.7z"
+    ],
+    "Serpent": [
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z",
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win64-git-20240608-3219d2d-uxp-75b0995d95-xpmod.7z"
+    ],
+    "Serpent (no SSE)": [
+      "https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20240608-3219d2d-uxp-75b0995d95-xpmod-ia32.7z"
+    ],
+    "Supermium": [
+      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_32_setup.exe",
+      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_64_setup.exe"
+    ]
+  },
+  "media": {
+    "Adobe Photoshop 7.0": [
+      "http://archive.org/download/photoshop7.0/(AvS) Adobe Photoshop 7.0 FULL (+serial).zip"
+    ],
+    "Audacity": [
+      "http://web.archive.org/web/20220108024104/https://cloud13.send.cm/d/azyrurs36gosj4l4oz2epgxk33pb7f4offexkhzcu4qdhmqy5ntxlftr64f5tu5uhtkaqgvx/audacity-win-2.1.3.exe"
+    ],
+    "Adobe Reader": [
+      "http://web.archive.org/web/20150218042714/http://ardownload.adobe.com/pub/adobe/reader/win/11.x/11.0.08/en_US/AdbeRdr11008_en_US.exe"
+    ],
+    "GIMP": [
+      "http://web.archive.org/web/20180719033756/https://gensho.ftp.acc.umu.se/pub/gimp/gimp/v2.8/windows/gimp-2.8.22-setup.exe"
+    ],
+    "Blender": [
+      "https://download.blender.org/release/Blender2.76/blender-2.76b-windows32.msi",
+      "https://download.blender.org/release/Blender2.76/blender-2.76b-windows64.msi"
+    ],
+    "HandBrake (GUI)": [
+      "https://github.com/HandBrake/HandBrake/releases/download/0.9.9/HandBrake-0.9.9-1_i686-Win_GUI.exe",
+      "https://github.com/HandBrake/HandBrake/releases/download/0.9.9/HandBrake-0.9.9-1_x86_64-Win_GUI.exe"
+    ],
+    "HandBrake (CLI)": [
+      "https://github.com/HandBrake/HandBrake/releases/download/0.9.9/HandBrake-0.9.9-i686-Win_CLI.zip",
+      "https://github.com/HandBrake/HandBrake/releases/download/0.9.9/HandBrake-0.9.9-x86_64-Win_CLI.zip"
+    ],
+    "LibreOffice": [
+      "https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi",
+      "https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86_64/LibreOffice_5.4.7.2_Win_x64.msi"
+    ],
+    "Lightshot": [
+      "https://app.prntscr.com/build/setup-lightshot.exe"
+    ],
+    "Paint.NET": [
+      "https://web.archive.org/web/20140209153608/http://www.dotpdn.com/files/Paint.NET.3.5.11.Install.zip"
+    ],
+    "ShareX": [
+      "https://github.com/ShareX/ShareX/releases/download/v12.0.0/ShareX-12.0.0-setup.exe"
+    ],
+    "VLC media player": [
+      "https://get.videolan.org/vlc/3.0.20/win32/vlc-3.0.20-win32.exe",
+      "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
+    ]
+  },
+  "utilities": {
+    "7-Zip": [
+      "https://7-zip.org/a/7z2406.exe",
+      "https://7-zip.org/a/7z2406-x64.exe"
+    ],
+    "Autoruns": [
+      "https://web.archive.org/web/20210226223738/https://download.sysinternals.com/files/Autoruns.zip"
+    ],
+    "CDBurnerXP": [
+      "https://web.archive.org/web/20210910131429/https://download.cdburnerxp.se/cdbxp_setup_4.5.8.7128_minimal.exe"
+    ],
+    "Certificate Updater": [
+      "http://i430vx.net/files/misc/Cert_Updater_v1.6.exe"
+    ],
+    "Code::Blocks 17.12": [
+      "https://archive.org/download/codeblocks-17.12mingw-setup/codeblocks-17.12mingw-setup.exe"
+    ],
+    "CPU-Z": [
+      "https://archive.org/download/cpu-z_2.08-en_202312/cpu-z_2.08-en.exe"
+    ],
+    "CrystalDiskInfo": [
+      "https://free.nchc.org.tw/osdn//crystaldiskinfo/77877/CrystalDiskInfo8_17_8.zip"
+    ],
+    "CrystalDiskMark": [
+      "https://free.nchc.org.tw/osdn/crystaldiskmark/77539/CrystalDiskMark8_0_4b.zip"
+    ],
+    "Dependency Walker": [
+      "https://www.dependencywalker.com/depends22_x86.zip",
+      "https://www.dependencywalker.com/depends22_x64.zip"
+    ],
+    "Everything": [
+      "https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe",
+      "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe"
+    ],
+    "FFmpeg": [
+      "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-7.1-596-5bc3b7f-win32-static-xpmod-sse.7z"
+    ],
+    "GPU-Z": [
+      "https://archive.org/download/gpu-z.-2.47.0/GPU-Z.2.47.0.exe"
+    ],
+    "HxD": [
+      "https://mh-nexus.de/downloads/HxDSetup.zip"
+    ],
+    "ImgBurn": [
+      "https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe"
+    ],
+    "jre8u152 (Java)": [
+      "https://i430vx.net/files/XP/EOL/jre-8u152-windows-i586.exe",
+      "https://archive.org/download/jre-8u152-windows-x64/jre-8u152-windows-x64.exe"
+    ],
+    "nLite": [
+      "http://www.nliteos.com/download/nLite-1.4.9.3.setup.exe"
+    ],
+    "Notepad++": [
+      "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.exe",
+      "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.x64.exe"
+    ],
+    "Python 3.4.10": [
+      "http://matejhorvat.si/en/windows/python/py3-4-10.zip"
+    ],
+    "qBittorrent": [
+      "https://archive.org/download/qbittorrent_4.1.9.1_setup/qbittorrent_4.1.9.1_setup.exe"
+    ],
+    "Rufus 2.18": [
+      "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
+    ],
+    "SDIO": [
+      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.12.23.764.zip"
+    ],
+    "TCP Optimizer": [
+      "https://www.speedguide.net/files/TCPOptimizer.exe"
+    ],
+    "TenFourFoxPEP": [
+      "https://macintoshgarden.org/sites/macintoshgarden.org/files/apps/TenFourFoxPEP_1.zip"
+    ],
+		"VirtualBox": [
+			"https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
+		],
+    "Xtreme Download Manager": [
+      "https://archive.org/download/xdmsetup-2018_202209/xdmsetup-2018.msi"
+    ],
+    "youtube-dl": [
+      "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"
+    ]
+  },
+  "components": {
+    ".NET Framework AIO": [
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x86_20240410.zip",
+      "https://github.com/abbodi1406/dotNetXP/releases/download/v2024.04.10/dotNetFx_AIO_x64_20240410_r.zip"
+    ],
+    "DirectX": [
+      "https://archive.org/download/windows-xp-updates/Windows XP/Microsoft DirectX 9.0C (June 2010) Redistributable/directx_Jun2010_redist.exe"
+    ],
+    "Visual C++ Redist AIO": [
+      "https://github.com/abbodi1406/vcredist/releases/download/v0.35.0/VisualCppRedist_AIO_x86_XP_35.zip",
+      "https://github.com/abbodi1406/vcredist/releases/download/v0.35.0/VisualCppRedist_AIO_x64_2k3_35.zip"
+    ]
+  }
+}

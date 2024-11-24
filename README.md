@@ -11,6 +11,6 @@ The program is compatible with Windows XP SP2 and above. Executable compiled usi
 
 3. Run the following command, ensuring that sdfWinXP.py is present (PYTHONDIR is the directory to the python interpreter):
 ```
-pyinstaller --onefile --add-data --noupx "{PYTHONDIR}\Lib\site-packages\ansicon\ANSI32.dll;." --copy-metadata readchar sdfWinXP.py --icon sdfWinXP_icon.ico
+pyinstaller --onefile --noupx --add-data "C:\Python38\Lib\site-packages\ansicon\ANSI32.dll;." --copy-metadata readchar sdfWinXP.py --icon sdfWinXP_icon.ico
 ```
 The executable should be saved in a 'dist' folder, created by pyinstaller.

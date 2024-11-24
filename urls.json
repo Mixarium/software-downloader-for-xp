@@ -48,7 +48,7 @@
       "http://web.archive.org/web/20150218042714/http://ardownload.adobe.com/pub/adobe/reader/win/11.x/11.0.08/en_US/AdbeRdr11008_en_US.exe"
     ],
     "GIMP": [
-      "http://web.archive.org/web/20180719033756/https://gensho.ftp.acc.umu.se/pub/gimp/gimp/v2.8/windows/gimp-2.8.22-setup.exe"
+      "https://download.gimp.org/gimp/v2.8/windows/gimp-2.8.22-setup.exe"
     ],
     "Blender": [
       "https://download.blender.org/release/Blender2.76/blender-2.76b-windows32.msi",

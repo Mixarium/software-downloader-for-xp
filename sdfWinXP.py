@@ -36,12 +36,12 @@ parser.add_argument(
     '-p', '--parallel',
     type=integer, 
     default=defaultParallelDownloads,
-    help='Maximum number of parallel downloads (default: 1).'
+    help='maximum number of parallel downloads (default: 1).'
 )
 parser.add_argument(
     '-oa', '--other-architecture',
     action='store_true',
-    help='Will download the opposing architecture type of the software (x64 -> x86 / x86 -> x64), if possible.'
+    help='download the opposing architecture type of the software (x64 -> x86 / x86 -> x64), if possible.'
 )
 
 args = parser.parse_args()
@@ -78,7 +78,7 @@ for i, section in enumerate(sections):
 
 answers = inquirer.prompt(questions)
 if not answers:
-    exit()
+    sys.exit()
 
 get_architecture = platform.machine()
 

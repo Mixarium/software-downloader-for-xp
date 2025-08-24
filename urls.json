@@ -9,18 +9,18 @@
       "https://archive.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox Setup 52.9.0esr.exe"
     ],
     "Mypal 68": [
-      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win32.zip",
-      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win64.zip"
+      "https://github.com/Feodor2/Mypal68/releases/download/74.1.1/mypal-74.1.1.en-US.win32.zip",
+      "https://github.com/Feodor2/Mypal68/releases/download/74.1.1/mypal-74.1.1.en-US.win64.zip"
     ],
     "Mypal 68 (SSE)": [
-      "https://codeberg.org/Theodor2/Mypal68/releases/download/68.14.4b/mypal-68.14.4.en-US.win32-sse.zip"
+      "https://github.com/Feodor2/Mypal68/releases/download/74.1.1/mypal-74.1.1.en-US.win32-sse.zip"
     ],
     "RoyTam Browser Installer": [
       "https://i430vx.net/files/XP/RoyTam Browser Installer.exe"
     ],
     "Supermium": [
-      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_32_setup.exe",
-      "https://github.com/win32ss/supermium/releases/download/v122-r6/supermium_122_64_setup.exe"
+      "https://github.com/win32ss/supermium/releases/download/v132-r5-02/supermium_132_32_setup.exe",
+      "https://github.com/win32ss/supermium/releases/download/v132-r5-02/supermium_132_64_setup.exe"
     ]
   },
   "Internet Software": {
@@ -75,8 +75,8 @@
   },
   "Utilities": {
     "7-Zip": [
-      "https://www.7-zip.org/a/7z2408.exe",
-      "https://www.7-zip.org/a/7z2408-x64.exe"
+      "https://7-zip.org/a/7z2501.exe",
+      "https://7-zip.org/a/7z2501-x64.exe"
     ],
     "Autoruns": [
       "https://web.archive.org/web/20210226223738/https://download.sysinternals.com/files/Autoruns.zip"
@@ -85,17 +85,17 @@
       "https://web.archive.org/web/20210910131429/https://download.cdburnerxp.se/cdbxp_setup_4.5.8.7128_minimal.exe"
     ],
     "CPU-Z": [
-      "https://archive.org/download/cpu-z_2.08-en_202312/cpu-z_2.08-en.exe"
+      "https://download.cpuid.com/cpu-z/cpu-z_2.16-en.exe"
     ],
     "CrystalDiskInfo": [
-      "https://free.nchc.org.tw/osdn//crystaldiskinfo/77877/CrystalDiskInfo8_17_8.zip"
+      "https://crystalmark.info/download/archive/CrystalDiskInfo/CrystalDiskInfo8_17_14.zip"
     ],
     "CrystalDiskMark": [
-      "https://free.nchc.org.tw/osdn/crystaldiskmark/77539/CrystalDiskMark8_0_4b.zip"
+      "https://crystalmark.info/download/archive/CrystalDiskMark/CrystalDiskMark8_0_6.zip"
     ],
     "Everything": [
-      "https://www.voidtools.com/Everything-1.4.1.1026.x86-Setup.exe",
-      "https://www.voidtools.com/Everything-1.4.1.1026.x64-Setup.exe"
+      "https://www.voidtools.com/Everything-1.4.1.1028.x86-Setup.exe",
+      "https://www.voidtools.com/Everything-1.4.1.1028.x64-Setup.exe"
     ],
     "FFmpeg": [
       "https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-7.1-2362-6aafe61-win32-static-xpmod-sse.7z"
@@ -117,10 +117,7 @@
       "https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe"
     ],
     "SDIO": [
-      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.13.5.772.zip"
-    ],
-    "TenFourFoxPEP": [
-      "https://macintoshgarden.org/sites/macintoshgarden.org/files/apps/TenFourFoxPEP_1.zip"
+      "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.15.5.816.zip"
     ],
 		"VirtualBox": [
 			"https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe"
@@ -149,6 +146,10 @@
     "HxD": [
       "https://mh-nexus.de/downloads/HxDSetup.zip"
     ],
+    "jdk8u152 (Java Development Kit)": [
+      "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_152-b16/aa0333dd3019491ca4f6ddbe78cdb6d0/windows-i586/jdk-8u152-windows-i586.exe",
+      "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_152-b16/aa0333dd3019491ca4f6ddbe78cdb6d0/windows-i586/jdk-8u152-windows-x64.exe"
+    ],
     "Python 3.4.10": [
       "http://matejhorvat.si/en/windows/python/py3-4-10.zip"
     ],
@@ -164,9 +165,19 @@
     "DirectX": [
       "https://archive.org/download/windows-xp-updates/Windows XP/Microsoft DirectX 9.0C (June 2010) Redistributable/directx_Jun2010_redist.exe"
     ],
-    "jre8u152 (Java)": [
-      "https://i430vx.net/files/XP/EOL/jre-8u152-windows-i586.exe",
-      "https://archive.org/download/jre-8u152-windows-x64/jre-8u152-windows-x64.exe"
+    "jre8u152 (Java Runtime Environment)": [
+      "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_152-b16/aa0333dd3019491ca4f6ddbe78cdb6d0/windows-i586/jre-8u152-windows-i586.exe",
+      "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_152-b16/aa0333dd3019491ca4f6ddbe78cdb6d0/windows-i586/jre-8u152-windows-x64.exe"
+    ],
+    "One-Core-API": [
+      "https://github.com/shorthorn-project/One-Core-API-Binaries/releases/download/4.0.3/one-core-api-pack-x86.zip",
+      "https://github.com/shorthorn-project/One-Core-API-Binaries/releases/download/4.0.3/one-core-api-pack-x64.zip"
+    ],
+    "One-Core-API (32-bit, AVX)": [
+      "https://github.com/shorthorn-project/One-Core-API-Binaries/releases/download/4.0.3/one-core-api-pack-x86-avx.zip"
+    ],
+    "One-Core-API (32-bit, PAE)": [
+      "https://github.com/shorthorn-project/One-Core-API-Binaries/releases/download/4.0.3/one-core-api-pack-x86-pae.zip"
     ],
     "Visual C++ Redist AIO": [
       "https://github.com/abbodi1406/vcredist/releases/download/v0.35.0/VisualCppRedist_AIO_x86_XP_35.zip",

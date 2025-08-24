@@ -1,1 +1,5 @@
+build/
+dist/
 venv/
+sdfWinXP.spec
+sdfwxp_downloads
